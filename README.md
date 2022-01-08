@@ -1,6 +1,6 @@
 # mobailshop
 
-A new Flutter application.
+A new Flutter mobailshop.
 
 ## Getting Started
 

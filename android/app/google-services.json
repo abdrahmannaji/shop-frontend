@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "50375573314",
+    "project_id": "mobileshop-b3a75",
+    "storage_bucket": "mobileshop-b3a75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50375573314:android:ff98039e5c6e8eb7d012db",
+        "android_client_info": {
+          "package_name": "com.necn.mobailshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50375573314-ks6fdlmshsip4t3n7q9upe7dpkkndocp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.necn.mobailshop",
+            "certificate_hash": "2daeaa84869d30d5ea388dec99177a85ca551b3e"
+          }
+        },
+        {
+          "client_id": "50375573314-06q78fkh94ld76n0nml7bmeqqugd5fls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6E8YibjJLtSkBM6pfXxDlti8T1LJTqcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50375573314-06q78fkh94ld76n0nml7bmeqqugd5fls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
